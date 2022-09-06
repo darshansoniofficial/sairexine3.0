@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Manufacturer And Exporter of Artificial Leather, Synthetic Leather, Pvc Vinyl, PU/PVC Leather Cloth,Rexine, PVC Leather Cloth, Vinyl Leather,Pvc Vinyl Leather, Vinyl Coated Fabric, PVC Coated Fabric, PVC Cloth, PU/PVC Cloth, Immitation Leather.</title>
+<link rel="shortcut icon" href="../favicon.ico">
+<!--[if IE]>
+        <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+<link rel="stylesheet" type="text/css" href="../css/menu.css">
+<link rel="stylesheet" type="text/css" href="../css/media-queries.css">
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-44414637-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-44414637-1');
+</script></head>
+
+<body>
+<div class="innpage-headbg">
+    <header>
+        <div class="container">
+	<div class="row">
+        <div class="header">
+            <div class="col-md-12 col-sm-12 col-xs-8 logo-center">
+               <div class="logo"><a href="index.php"><img src="../images/mayur-logo.png" alt="Mayur Uniquoters Limited" title="Mayur Uniquoters Limited" class="img-responsive"></a></div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+            	<div class="memu-hold">
+            		<nav class="nav is-fixed" role="navigation">
+                    	<button class="nav-toggle">
+    <div class="icon-menu"> <span class="line line-1"></span> <span class="line line-2"></span> <span class="line line-3"></span> </div>
+    </button>
+                        <div class="nav-container">
+                             <ul class="nav-menu menu">
+                              <li class="menu-item hidden-xs"> <a href="index.php" class="menu-link home"><img src="../images/icon-home.png" alt="Home"></a></li>
+                             <li class="menu-item has-dropdown"><a href="overview.php" class="menu-link">About Mayur</a>
+                                <ul class="nav-dropdown menu">
+                                  <li class="menu-item"><a href="overview.php" class="menu-link">Overview</a></li>
+                                  <li class="menu-item"><a href="board-of-directors.php" class="menu-link">Board of Directors</a></li>
+                                  <li class="menu-item"><a href="committees-of-directors.php" class="menu-link">Committees of Directors</a></li> 
+                                  <!-- <li class="menu-item"><a href="sales.php" class="menu-link">Sales</a></li> -->
+                                  <li class="menu-item"><a href="vision-values.php" class="menu-link">Vision &amp; Values</a></li>
+                                  <li class="menu-item"><a href="logo-our-ethos.php" class="menu-link"> Logo : Our Ethos</a></li>
+                                  <!-- <li class="menu-item"><a href="texture-for-every-idea.php" class="menu-link">A Texture For Every Idea</a></li> -->
+                                  <li class="menu-item"><a href="awards-achievements.php" class="menu-link">Awards &amp; Achievements</a></li>
+                                  <li class="menu-item"><a href="membership.php" class="menu-link">Memberships</a></li>
+                                  <li class="menu-item"><a href="media.php" class="menu-link">Media Gallery</a></li>
+                                  <li class="menu-item"><a href="policy-certificates.php" class="menu-link">Policy &amp; Certificates</a></li>
+                                  <li class="menu-item"><a href="sustainability.php" class="menu-link">Sustainability</a></li>
+                                </ul>
+                              </li>
+                              <li class="menu-item has-dropdown"><a href="#" class="menu-link">Products</a>
+                                <ul class="nav-dropdown menu">
+                                  <li class="menu-item"><a href="products.php?industryid=1" class="menu-link">Automotive</a></li>
+                                  <li class="menu-item"><a href="products.php?industryid=2" class="menu-link">Footwear</a></li>
+                                  <li class="menu-item"><a href="products.php?industryid=3" class="menu-link">Furnishing</a></li>
+                                  <li class="menu-item"><a href="products.php?industryid=4" class="menu-link">Leather Goods &amp; Garments</a></li>
+                                  <!-- <li class="menu-item"><a href="products-gallery.php" class="menu-link">Product Gallery</a></li> -->
+                                </ul>
+                              </li>
+                              <li class="menu-item has-dropdown"><a href="our-plant.php" class="menu-link">Our Plants</a>
+                                <!-- <ul class="nav-dropdown menu">
+                                  <li class="menu-item"><a href="our-plant.php" class="menu-link">Our Plants</a></li>
+                                  <li class="menu-item"><a href="equipment.php" class="menu-link">Equipments</a></li>
+                                  <li class="menu-item"><a href="power-backup.php" class="menu-link">Power and Backup</a></li>
+                                </ul> -->
+                              </li>
+                              <li class="menu-item has-dropdown"><a href="quality-assurance.php" class="menu-link">Quality Assurance</a>
+                                <ul class="nav-dropdown menu">
+                                  <li class="menu-item"><a href="quality-assurance.php" class="menu-link">Inspection</a></li>
+                                  <li class="menu-item"><a href="calibration-of-instruments.php" class="menu-link">Calibration of Instruments</a></li>
+                                  <!-- <li class="menu-item"><a href="packing.php" class="menu-link">Packaging &amp; Storage</a></li> -->
+                                </ul>
+                              </li>
+                              <li class="menu-item has-dropdown"><a href="research-development.php" class="menu-link">R&amp;D</a>
+                                <ul class="nav-dropdown menu">
+                                  <li class="menu-item"><a href="research-development.php" class="menu-link">Research &amp; Development</a></li>
+                                  <li class="menu-item"><a href="prototype-laboratory-capability.php" class="menu-link">Prototype Laboratory Capability</a></li>
+                                  <li class="menu-item"><a href="manufacturing-international-standards.php" class="menu-link">Manufacturing to International Standards</a></li>
+                                </ul>
+                              </li>
+                              <li class="menu-item"><a href="global-presence.php" class="menu-link">Global Presence</a></li>
+                              <!--<li class="menu-item"><a href="photo-gallery.php" class="menu-link">Photo Gallery</a></li>-->
+                              <li class="menu-item has-dropdown"><a href="career.php" class="menu-link">Career</a>
+                                <ul class="nav-dropdown menu">
+                                  <li class="menu-item"><a href="lifeat-mayur.php" class="menu-link">Life at Mayur</a></li>
+                                  <li class="menu-item"><a href="submit-resume.php" class="menu-link">Submit Resume</a></li>
+                                </ul>
+                              </li>
+                              <li class="menu-item"><a href="csr.php" class="menu-link">CSR</a></li>
+                              <li class="menu-item"><a href="contact-us.php" class="menu-link">Contact Us</a></li>
+                              <li class="menu-item has-dropdown"><a href="investors.php" class="menu-link">Investors</a>
+                                <ul class="nav-dropdown menu">
+                                  <li class="menu-item"><a href="chairman-communication.php" class="menu-link">Chairman Communication</a></li>
+                                  <!-- <li class="menu-item"><a href="share-price.php" class="menu-link">Shares</a></li> -->
+                                  <li class="menu-item"><a href="unclaimed-dividend.php" class="menu-link">Reports and Filings</a></li>
+                                  <!-- <li class="menu-item"><a href="announcements.php" class="menu-link">Announcements &amp; Press Releases</a></li> -->
+                                  <li class="menu-item"><a href="investor-contacts.php" class="menu-link">Investor Services</a></li>
+                                  <li class="menu-item"><a href="disclaimer.php" class="menu-link">Disclaimer</a></li>
+                                </ul>
+                              </li>
+							   <li class="menu-item"><a href="http://mayur.talbrum.com/" target="_blank" class="menu-link">EMPLOYEE ZONE</a></li>
+                            </ul>
+						</div>
+                    </nav>
+            	</div>
+                
+            </div>
+        </div>
+    </div>
+</div>	
+    </header>
+</div>
+<div class="clear"></div>
+
+<!--Content -->
+<section style="background:url(../images/contactus-bg.jpg) repeat;">
+	<div class="container container-mobile">
+        <div class="col-md-12 box-effect">
+            <div class="row">
+                <div id="content" class="clearfix">
+                  <div class="errordiv"> <img src="../images/page-not-found.png" alt="404 Page"><br>
+                    <br>
+                    <h4>Error – Page Not Found</h4>
+                    <p style="text-align:center;">It seems we can't find what you're looking for. Please return to <a href="http://www.mayuruniquoters.com/">mayuruniquoters.com</a>, or <a href="http://www.mayuruniquoters.com/contact-us.php">contact us</a> for help.</p>
+                  </div>
+                </div>
+			</div>
+		</div>
+    </div>
+</section>
+<div class="clear"></div>
+
+<!--<section>
+	<div class="shadow1"></div>
+    <div class="shadow3"></div>
+	<div class="map" style="position:relative; z-index:100;">
+    	<iframe style="width:100%; height:410px; border:0;" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.in/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=113430595946853288975.00048fd2939d34ee6a4a1&amp;ll=27.13036,75.728749&amp;spn=0,0&amp;t=h&amp;iwloc=00048fd29ba20477773e9&amp;output=embed"></iframe>
+    </div>
+</section> -->
+<!--footer -->
+<footer>
+<div class="container">
+   <div>
+  	
+    <div class="col-md-3 col-sm-3 col-xs-6">
+    <div class="row">
+        <div class="footer-nav">
+            <ul>
+                <li><strong><a href="overview.php">About Mayur</a></strong></li>
+                <li><a href="overview.php">Overview</a></li>
+                <li><a href="board-of-directors.php">Board of Directors</a></li>
+                <li><a href="vision-values.php">Vision &amp; Values </a></li>
+                <li><a href="logo-our-ethos.php">Logo : Our Ethos</a></li>
+                <!--<li><a href="history.php">History</a></li> -->
+                <li><a href="awards-achievements.php">Awards &amp; Achievements</a></li>
+                <li><a href="membership.php">Memberships</a></li>
+                <li><a href="media.php">Media Gallery</a></li>
+                <li><a href="policy-certificates.php">Policy &amp; Certificates</a></li>
+                <li><a href="sustainability.php">Sustainability</a></li>
+                <li><a href="e-catalog.php">E-Catalog</a></li>
+            </ul>
+		</div>  
+        </div>  
+    </div>
+
+  	
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="footer-nav">
+            <ul>
+                <li><strong><a href="#">Products</a></strong></li>
+            <br>
+<b>Warning</b>:  mysql_num_rows() expects parameter 1 to be resource, object given in <b>/home1/mayuruni/public_html/footer.php</b> on line <b>33</b><br>
+       
+                <!-- <li><a href="products-gallery.php">Product Gallery</a></li> -->
+                
+            </ul>
+		</div>    
+    </div>
+
+  	
+    <!-- <div class="col-md-2 col-sm-2 col-xs-6">
+        <div class="footer-nav">
+             <ul>
+                <li><strong><a href="our-plant.php">Infrastructure</a></strong></li>
+                <li><a href="our-plant.php">Our Plants</a></li>
+                <li><a href="equipment.php">Equipments</a></li>
+                <li><a href="power-backup.php">Power and Backup</a></li>
+            </ul>
+		</div>    
+    </div> -->
+
+  	
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="footer-nav">
+            <ul>
+                <li><strong><a href="quality-assurance.php">Quality Assurance</a></strong></li>
+                <li><a href="quality-assurance.php" class="active">Inspection</a></li>
+                <li><a href="calibration-of-instruments.php">Calibration of Instruments</a></li>
+            </ul>
+		</div>    
+    </div>
+
+  	
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="footer-nav">
+            <ul style="padding-right:0;">
+                <li><strong><a href="investors.php">Investors </a></strong></li>      
+              <li><a href="chairman-communication.php">Chairman Statement</a></li>
+                <li><a href="unclaimed-dividend.php">Reports and Filings</a></li> 
+                <li><a href="investor-contacts.php">Investor Services</a></li>
+                <li><a href="disclaimer.php">Disclaimer</a></li>       
+            </ul>
+		</div>    
+    </div>
+    
+    <div class="clear"></div>
+    <div class="clearfix footer-contact">
+    
+    	<div class="col-md-3 col-sm-3 col-xs-12 col-md-offset-2">
+        	<h5><img src="../images/icon-phone.jpg" alt> +91-1423-224001</h5>
+        </div>
+        
+        <div class="col-md-1 col-sm-1 hidden-xs"> 
+        	<img src="../images/footer-sep.jpg" alt>
+        </div>
+
+    	<div class="col-md-2 col-sm-3 col-xs-12">
+	        <h5> <img src="../images/icon-mail.jpg" alt> <a href="mailto:info@mayur.biz" target="_blank">info@mayur.biz </a> </h5>
+        </div>
+        
+        <div class="col-md-1 col-sm-1 hidden-xs"> 
+	        <img src="../images/footer-sep.jpg" alt>
+        </div>
+
+    	<div class="col-md-2 col-sm-4 col-xs-12 text-center">
+        	<h4><img src="../images/bsi-logo.jpg" alt></h4>
+        </div>
+    
+    </div>
+     <div class="clear"></div>
+     <div class="row">
+         <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="copyright ">Copyright &copy; 2020 Mayur Uniquoters Limited, All rights reserved.</div>
+         </div>
+    
+         <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="powery">Powered by <a href="https://www.isolutiononline.com/" target="_blank" rel="nofollow">iSolution</a></div>
+         </div>
+     </div>
+    
+  </div>
+  </div></footer>
+</body>
+</html>

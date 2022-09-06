@@ -1,0 +1,126 @@
+/* clearfix */
+
+.clearfix {
+    clear: both;
+}
+
+#mediagallery {
+    position: relative;
+    width: auto;
+    margin: 0 auto 25px;
+    padding-bottom: 10px;
+}
+
+.grid {
+    min-height: 100px;
+    background: #fff;
+    margin: 8px 10px;
+    float: left;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -webkit-transition: top 1s ease, left 1s ease;
+    -moz-transition: top 1s ease, left 1s ease;
+    -o-transition: top 1s ease, left 1s ease;
+    -ms-transition: top 1s ease, left 1s ease;
+    max-width: 174px;
+}
+
+.grid strong {
+    margin: 0px 0;
+    display: block;
+    padding-left: 7px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2b2b2b;
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+
+.grid p {
+    padding: 0 7px;
+    margin-bottom: 10px;
+    font-size: 11px;
+    line-height: 14px;
+    text-align: left;
+    color: #858585;
+    font-weight: 300;
+}
+
+.grid .meta {
+    text-align: left;
+    padding: 3px 0 3px 7px;
+    color: #777;
+    color: #136e71;
+    background-color: #f4f4f4;
+    font-style: italic;
+}
+
+.grid .imgholder img {
+    width: auto;
+    padding: 6px;
+    display: block;
+    float: left;
+}
+
+.video-img {
+    margin-right: 4px;
+}
+
+.video-img .imgholder img {
+    padding-bottom: 0.5em;
+}
+
+.video-img .imgholder a .icon-play {
+    background: url(../images/abBfiRhGYdC1.png) no-repeat;
+    width: 37px;
+    height: 37px;
+    position: absolute;
+    margin: 40px 0 0 60px;
+    opacity: 0.2;
+    z-index: 1000
+}
+
+.video-img .imgholder a:hover .icon-play {
+    opacity: 0.9;
+}
+
+@media screen and (max-width: 1240px) {
+    body {
+        overflow: auto;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    #backlinks {
+        float: none;
+        clear: both;
+    }
+    #backlinks a {
+        display: inline-block;
+        padding-right: 20px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .media-tabs {}
+    .grid {
+        min-height: 100px;
+        background: #fff;
+        margin: 0px;
+    }
+    .grid .imgholder img {
+        width: 100%;
+        padding: 3px;
+    }
+    .video-img {
+        width: 45%;
+        margin: 2%;
+    }
+    .video-img .imgholder img {
+        width: 100%;
+    }
+    .video-img .imgholder a .icon-play {
+        margin: 10% 0 0 15%;
+    }
+}
